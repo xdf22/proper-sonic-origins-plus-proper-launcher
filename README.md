@@ -1,5 +1,6 @@
- # Proper Sonic Origins Plus
-Who needs Sonic Origins Plus?
+outdated, should support ursc
+https://github.com/AnakamaTH/ultimate-retro-sonic-collection
+#Who needs Sonic Origins Plus?
 
 ![Shitty Thumb](https://github.com/Tminec/proper-sonic-origins-plus/blob/main/logo.png)
 
